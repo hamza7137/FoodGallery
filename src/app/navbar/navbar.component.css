@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Dancing+Script:wght@500&family=Josefin+Sans&family=Oleo+Script:wght@700&family=Roboto+Mono:wght@300&display=swap');
+
+.fStyle{
+    font-family: Dancing Script;
+    font-size: xx-large;
+    padding-left: 7vw;
+}
+
+.signLog{
+    padding-left: 66vw;
+}
